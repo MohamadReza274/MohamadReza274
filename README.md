@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://react-portfolio-ashen-xi.vercel.app](https://react-portfolio-ashen-xi.vercel.app)
 
-- 💬 Ask me about **Reactjs, TypeScript, TailwindCSS**
+- 💬 Ask me about **Reactjs, TypeScript, TailwindCSS, Next.js**
 
 - 📫 How to reach me **reza.mohamadi.98115@gmail.com**
 
