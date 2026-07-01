@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamad Reza</h1>
-<h3 align="center">A passionate frontend developer from Afghanistan</h3>
+<h3 align="center">Junior Web Developer, React & Typescript Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadreza274&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadreza274" /> </p>
 
-- 🔭 I’m currently working on [Reactjs Dashboard](https://dashboard-mocha-psi-42.vercel.app/)
+- 🔭 I’m currently working on [Afghan Jobs Platform])
 
-- 🌱 I’m currently learning **Next.js, Express, Deno**
+- 🌱 I’m currently learning **Tanstack, Deno**
 
 - 👨‍💻 All of my projects are available at [https://react-portfolio-ashen-xi.vercel.app](https://react-portfolio-ashen-xi.vercel.app)
 
-- 💬 Ask me about **Reactjs, TypeScript, TailwindCSS, Next.js**
+- 💬 Ask me about **Reactjs, TypeScript, TailwindCSS, Tanstack Start**
 
 - 📫 How to reach me **reza.mohamadi.98115@gmail.com**
 
