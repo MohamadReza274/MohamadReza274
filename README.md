@@ -1,38 +1,82 @@
-<h1 align="center">Hi 👋, I'm Mohamad Reza</h1>
-<h3 align="center">Junior Web Developer, React & Typescript Enthusiast</h3>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5CABD6&height=220&section=header&text=Mohamad%20Reza&fontSize=48&fontColor=E8EEF0&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20/%20Front-End%20Developer&descAlignY=58&descSize=18" width="100%" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadreza274&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadreza274" /> </p>
+<a href="https://github.com/MohamadReza274">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=5CABD6&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Front-End+Developer;React.js+%C2%B7+Next.js+%C2%B7+TypeScript;TanStack+Start+%C2%B7+Tailwind+CSS;Building+modern%2C+fast+web+applications" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on [Afghan Jobs Platform])
+<br/>
 
-- 🌱 I’m currently learning **Tanstack, Deno**
+<img src="https://img.shields.io/badge/Open%20to%20Work-3b7ea3?style=flat-square&logo=briefcase&logoColor=white" alt="Open to Work" />
 
-- 👨‍💻 All of my projects are available at [https://react-portfolio-ashen-xi.vercel.app](https://react-portfolio-ashen-xi.vercel.app)
+<br/>
 
-- 💬 Ask me about **Reactjs, TypeScript, TailwindCSS, Tanstack Start**
+<img src="https://komarev.com/ghpvc/?username=MohamadReza274&color=5CABD6&style=flat-square&label=Profile+Views" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/MohamadReza274?label=Followers&style=flat-square&color=5CABD6" alt="Followers" />
 
-- 📫 How to reach me **reza.mohamadi.98115@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamadreza-mohamadi-468b41285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamadreza-mohamadi-468b41285" height="30" width="40" /></a>
+<br/>
+
+## Who I Am
+
+Hi 👋, I'm Mohamad Reza 👋<br>
+👨‍💻 Software Engineer & Front-End Developer focused on modern web development.<br>
+🚀 Frontend: Experienced with HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS, React.js, and Next.js.<br>
+⚛️ React Ecosystem: Building reusable components and scalable interfaces with React, React Hooks, React Router, and modern React patterns.<br>
+▲ Next.js: Hands-on experience with modern Next.js application development, routing, authentication, server-side features, and API integration.<br>
+⚡ TanStack: Currently working with TanStack Start, TanStack Router, TanStack Query, and modern full-stack React applications.<br>
+🎨 UI/UX: Focused on building clean, responsive, accessible, and user-friendly interfaces using Tailwind CSS and shadcn/ui.<br>
+🗄️ Backend & Database: Experience with Prisma, PostgreSQL, and server-side application development.<br>
+🔐 Authentication: Working with Better Auth for authentication, sessions, organizations, and role-based access control.<br>
+📡 API Integration: Experience working with REST APIs and modern data-fetching patterns.<br>
+📝 Version Control: Proficient with Git and GitHub for version control and collaborative development.<br>
+☁️ Deployment: Experience deploying modern web applications with Vercel and Netlify.<br>
+🔍 Problem-solving: Strong interest in debugging, architecture, performance, and writing clean and maintainable code.<br>
+📚 Continuous Learning: Always learning and improving my software engineering skills.<br>
+
+## 🚀 Current Project
+
+### Afghan Jobs Platform
+
+I'm currently building a modern job platform focused on connecting job seekers and employers in Afghanistan.
+
+**Stack:** Next.js · TanStack Start · TypeScript · PostgreSQL · Prisma · Better Auth · Tailwind CSS · shadcn/ui
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/mohamadreza-mohamadi-468b41285)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:reza.mohamadi.98115@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5CABD6?logo=vercel\&logoColor=white)](https://react-portfolio-ashen-xi.vercel.app)
+
+# 💻 Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic\&logo=javascript\&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=plastic\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic\&logo=react\&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=plastic\&logo=next.js\&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-%23FF4154.svg?style=plastic\&logo=react\&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-%23FF4154.svg?style=plastic\&logo=reactquery\&logoColor=white)
+![TanStack Router](https://img.shields.io/badge/TanStack_Router-%23FF4154.svg?style=plastic\&logo=react\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic\&logo=tailwind-css\&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-black?style=plastic\&logo=shadcnui\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=plastic\&logo=prisma\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic\&logo=postgresql\&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-black?style=plastic\&logo=auth0\&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic\&logo=vite\&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic\&logo=npm\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=plastic\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic\&logo=vercel\&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic\&logo=netlify\&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic\&logo=figma\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=plastic\&logo=visualstudiocode\&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamadReza274&show_icons=true&theme=transparent&hide_border=true" alt="Mohamad Reza GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadReza274&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamadreza274&show_icons=true&locale=en&layout=compact" alt="mohamadreza274" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamadreza274&show_icons=true&locale=en" alt="mohamadreza274" /></p>
-- 👋 Hi, I’m @MohamadReza274
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-MohamadReza274/MohamadReza274 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
